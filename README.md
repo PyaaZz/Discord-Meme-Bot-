@@ -54,9 +54,6 @@ I wanted to get some hands-on experience with Python projects and APIs while bui
 - Custom meme categories
 - Server-specific settings
 
-## Screenshot
-
-(Add a screenshot of the bot in action here)
 
 ---
 
